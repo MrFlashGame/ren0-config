@@ -31,3 +31,7 @@ hier nun die Startoptionen, welche du aus der Config entnehmen kannst, ein.
 ## Deinstallation 
 
 Um die Config zu deinstallieren lösche die Datei einfach aus dem Installationsverzeichnis.
+
+## Lizenz
+
+Dieses Projekt ist unter der MIT-Lizenz lizenziert - Details finden Sie in der Datei [LICENSE.md] (LICENSE.md)
