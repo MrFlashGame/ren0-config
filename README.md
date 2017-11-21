@@ -16,14 +16,15 @@ hier nun die Startoptionen, welche du aus der Config entnehmen kannst ein.
 - Drücke "ALT" während du eine Granate in der Hand hältst um Sie perfekt zu werfen
 - "ENDE" deaktiviert die Sprachkommunikation. Um Sie wieder zu aktivieren drücke "ENDE"  erneut
 - "F10" öffnet die Konsole"
+- Deine Freunde können deinem Spiel jetzt pber das Hauptmenü beitreten
 - Drücke "N" um den Netgraphen zu zeigen. Drücke "N" erneut um den Graphen wieder auszublenden
-- Die verschiedenen NumPad Tasten sind zum schnellen kaufen für Waffen
-- Limitierte FPS im Menü Energie zu sparen
-- Verbesserte Netzwerkeinstellungen für besseren Ping
-- Verbesserte Soundeinstelungen für besseren Sound
+- Die verschiedenen NumPad Tasten sind zum schnellen Kaufen für Waffen
+- Limitierte FPS im Menü um Energie zu sparen
+- Verbesserte Netzwerkeinstellungen für einen besseren Ping
+- Verbesserte Soundeinstellungen für besseren Sound
 - Benutzerdefiniertes Crosshair
 - Benutzerdefiniertes Viewmodel
-- Allgemeines Feintuning der CS:GO Einstellungen für ein bessere Spielerfahrung
+- Allgemeines Feintuning der CS:GO Einstellungen für eine bessere Spielerfahrung
 ```
 
 
