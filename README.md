@@ -34,4 +34,4 @@ Um die Config zu deinstallieren lösche die Datei einfach aus dem Installationsv
 
 ## Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert - Details finden Sie in der Datei [LICENSE.md] (LICENSE.md)
+Dieses Projekt ist unter der Apache 2.0-Lizenz lizenziert - Details finden Sie in der Datei [LICENSE.md] (LICENSE.md)
