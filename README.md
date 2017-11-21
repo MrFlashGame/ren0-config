@@ -34,4 +34,4 @@ Um die Config zu deinstallieren lösche die Datei einfach aus dem Installationsv
 
 ## Lizenz
 
-Dieses Projekt ist unter der Apache 2.0-Lizenz lizenziert - Details finden Sie in der Datei [LICENSE:md](https://github.com/MrFlashGame/Ren0-Config/blob/master/LICENSE.md)
+Dieses Projekt ist unter der Apache 2.0-Lizenz lizenziert - Details finden Sie in der Datei [LICENSE.md](https://github.com/MrFlashGame/Ren0-Config/blob/master/LICENSE.md)
