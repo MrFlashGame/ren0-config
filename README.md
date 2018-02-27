@@ -8,12 +8,12 @@ Sie wird beim nächsten Spielstart automatisch ausgeführt.
 ## Optional
 
 Optional kannst du auch noch meine Startoptionen aktivieren. Um dies zu tun wähle "Counter-Strike: Global Offensive" 
-in deiner Steambibliothek aus, rechtsklicke und wähle "Eigenschaften". Öffne unten rechts den Menüpunkt "Startoptionen" und kopiere
+in deiner Steambibliothek aus, rechts klicke und wähle "Eigenschaften". Öffne unten rechts den Menüpunkt "Startoptionen" und kopiere
 hier nun die Startoptionen, welche du aus der Config entnehmen kannst, ein.
 
 ## Features
 ```
-- Drücke "ALT" während du eine Granate in der Hand hältst um Sie perfekt zu werfen
+- Drücke "ALT" während du eine Granate in der Hand hältst, um Sie perfekt zu werfen
 - "ENDE" deaktiviert die Sprachkommunikation. Um Sie wieder zu aktivieren drücke "ENDE" erneut
 - "F10" öffnet die Konsole"
 - Deine Freunde können deinem Spiel über das Hauptmenü beitreten
