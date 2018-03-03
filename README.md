@@ -17,7 +17,7 @@ hier nun die Startoptionen, welche du aus der Config entnehmen kannst, ein.
 - "ENDE" deaktiviert die Sprachkommunikation. Um Sie wieder zu aktivieren drücke "ENDE" erneut
 - "F10" öffnet die Konsole"
 - Deine Freunde können deinem Spiel über das Hauptmenü beitreten
-- Drücke "N" um den Netgraph anzuzeigen. Drücke "N" erneut um den Graphen wieder auszublenden
+- Der Netgraph wird nun im Scoreboard angezeigt
 - Die verschiedenen NumPad Tasten sind zum schnellen Kaufen für Waffen
 - Limitierte FPS im Menü um Energie zu sparen
 - Verbesserte Netzwerkeinstellungen für einen besseren Ping
