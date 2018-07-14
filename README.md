@@ -13,14 +13,15 @@ hier nun die Startoptionen, welche du aus der Config entnehmen kannst, ein.
 
 ## Features
 ```
-- Drücke "ALT" während du eine Granate in der Hand hältst, um Sie perfekt zu werfen
-- "ENDE" deaktiviert die Sprachkommunikation. Um Sie wieder zu aktivieren drücke "ENDE" erneut
+- Drücke "ALT" während du eine Granate in der Hand hältst, um einen Jumpthrow auszuführen
+- "ENDE" deaktiviert die Sprachkommunikation mit deinem Team. Um Sie wieder zu aktivieren drücke "ENDE" erneut
+- "ENTF" entfernt alle Einschusslöscher und Blut für eine bessere Sicht
 - "F10" öffnet die Konsole"
 - Deine Freunde können deinem Spiel über das Hauptmenü beitreten
 - Der Netgraph wird nun im Scoreboard angezeigt
-- Die verschiedenen NumPad Tasten sind zum schnellen Kaufen für Waffen
+- Intuitives Autobuy
 - Limitierte FPS im Menü um Energie zu sparen
-- Verbesserte Netzwerkeinstellungen für einen besseren Ping
+- Verbesserte Netzwerkeinstellungen für bessere Performance
 - Verbesserte Soundeinstellungen für besseren Sound
 - Benutzerdefiniertes Crosshair
 - Benutzerdefiniertes Viewmodel
