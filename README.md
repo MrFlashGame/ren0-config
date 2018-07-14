@@ -2,7 +2,7 @@
 
 ## Installation
 
-Lade die Datei "autoexec.cfg" [hier](https://github.com/MrFlashGame/ren0-config/releases/download/2.3.1/autoexec.cfg) herunter. Füge diese Datei "autoexec.cfg" dann unter "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg" ein.
+Lade die Datei "autoexec.cfg" [hier](https://github.com/MrFlashGame/ren0-config/releases/download/3.0/autoexec.cfg) herunter. Füge diese Datei "autoexec.cfg" dann unter "C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg" ein.
 Die Config wird beim nächsten Spielstart automatisch ausgeführt.
 
 ## Optional
