@@ -19,6 +19,7 @@ hier nun die Startoptionen, welche du aus der Config entnehmen kannst, ein.
 - "F10" öffnet die Konsole"
 - Deine Freunde können deinem Spiel über das Hauptmenü beitreten
 - Der Netgraph wird nun im Scoreboard angezeigt
+- Der Gegnerchat ist standardmäßig deaktiviert
 - Intuitives Autobuy
 - Limitierte FPS im Menü um Energie zu sparen
 - Verbesserte Netzwerkeinstellungen für bessere Performance
